@@ -1,3 +1,3 @@
 # Projects
 
-School site for now
+Just nothing
